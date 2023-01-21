@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Penguin Empire Robotics - Code',
-  tagline: 'Documentation for FRC Team 2551',
+  title: 'Penguin Empire Robotics',
+  tagline: 'Code Documentation for FRC Team 2551',
   url: 'https://penguinempire.github.io/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -37,7 +37,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/PenguinEmpire/PenguinEmpire.github.io/',
         },
         blog: null
 /*         {
@@ -45,7 +45,7 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/PenguinEmpire/PenguinEmpire.github.io/',
         } */
         ,
         theme: {
@@ -62,7 +62,7 @@ const config = {
         title: 'Penguin Empire Robotics',
         logo: {
           alt: 'Penguin Empire Robotics Logo',
-          src: 'https://lh5.googleusercontent.com/c4Y6k6Ee-IuhkkwvMSzNtE-fx4iFJxrexZq-qopxqzCdacHf4r2BY88rcLA1UhEiLkawdBMXIgobRO0HXBoYBJqLqJFHt0SIDvgiEQBmZ0bT44cPeRtX_4jNlQ-eza81I4MZxXEqdtM=w16383',
+          src: 'img/2551.svg',
         },
         items: [
           {
