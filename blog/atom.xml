@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://penguinempire.github.io/blog</id>
-    <title>Penguin Empire Robotics - Code Blog</title>
+    <title>Penguin Empire Robotics Blog</title>
     <updated>2021-08-26T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://penguinempire.github.io/blog"/>
-    <subtitle>Penguin Empire Robotics - Code Blog</subtitle>
+    <subtitle>Penguin Empire Robotics Blog</subtitle>
     <icon>https://penguinempire.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
