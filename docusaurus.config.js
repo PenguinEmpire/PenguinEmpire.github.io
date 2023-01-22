@@ -62,7 +62,7 @@ const config = {
         title: 'Penguin Empire Robotics',
         logo: {
           alt: 'Penguin Empire Robotics Logo',
-          src: 'img/2551.svg',
+          src: 'img/2551.png',
         },
         items: [
           {
@@ -95,16 +95,16 @@ const config = {
             title: 'Community',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'Instagram',
+                href: 'https://www.instagram.com/penguinempirerobotics/',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Facebook',
+                href: 'https://www.facebook.com/penguinempirerobotics',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'YouTube',
+                href: 'https://www.youtube.com/@penguinempirerobotics8439',
               },
             ],
           },
