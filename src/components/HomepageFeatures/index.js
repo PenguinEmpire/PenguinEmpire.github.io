@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Learn to code',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Our team uses a few different programming languages for different purposes. Find resources to learn C++, Python, Markdown and more.     </>
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'FRC and WPILib',
+    Svg: require('@site/static/img/wpilibDocsLogo.webp').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        The WPI Robotics Library (WPILib) is the standard software library used for FRC. Learn how we use WPILib to create code for our robots.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Advanced Topics',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        We are learning about Computer Vision, Machine Learning and other advanced topics. Learn more here.
       </>
     ),
   },
