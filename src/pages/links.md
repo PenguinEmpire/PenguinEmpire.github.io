@@ -100,7 +100,7 @@ For VPI1.2:
 
 [Configuring the Jetson CSI Connector (30-pin Expansion Header)](https://docs.nvidia.com/jetson/archives/l4t-archived/l4t-3273/index.html#page/Tegra%20Linux%20Driver%20Package%20Development%20Guide/hw_setup_jetson_io.html#wwpID0E02D0HA)
 
-## NVIDIA Jetson Orin Nano (available in March 2023)
+### NVIDIA Jetson Orin Nano (available in March 2023)
 [Jetson Orin Modules and Developer Kit
 ](https://www.nvidia.com/en-us/autonomous-machines/embedded-systems/jetson-orin/)
 [Solving Entry-Level Edge AI Challenges with NVIDIA Jetson Orin Nano (Sept 2022 Blog)](https://developer.nvidia.com/blog/solving-entry-level-edge-ai-challenges-with-nvidia-jetson-orin-nano/)
@@ -109,7 +109,7 @@ For VPI1.2:
 [SeeedStudio Jetson Orin Nano based reComputer](https://www.seeedstudio.com/blog/2022/09/30/orin-nano-a-new-member-joins-the-nvidia-jetson-series-for-next-level-entry-of-edge-ai/)
 ### VNC for remote desktop to NVIDIA Jetson
 [Setting Up VNC | NVIDIA Developer](https://developer.nvidia.com/embedded/learn/tutorials/vnc-setup)
-## Cameras
+### Cameras for Jetson
 Raspberry Pi HQ camera with C/CS-Mount lens
 [Raspberry Pi HQ camera IMX477 Linux driver for Jetson from RidgeRun](https://developer.ridgerun.com/wiki/index.php?title=Raspberry_Pi_HQ_camera_IMX477_Linux_driver_for_Jetson)
 [NVIDIA Jetson IMX477 HQ RPI V3 camera driver from RidgeRun on GitHub](https://github.com/RidgeRun/NVIDIA-Jetson-IMX477-RPIV3)
@@ -117,10 +117,10 @@ Raspberry Pi HQ camera with C/CS-Mount lens
 [Jetson Nano + Raspberry Pi Camera - YouTube JetsonHacks article](https://jetsonhacks.com/2019/04/02/jetson-nano-raspberry-pi-camera/)
 [ArduCam 12MP IMX477 for Raspberry Pi](https://docs.arducam.com/Raspberry-Pi-Camera/Native-camera/12MP-IMX477/)
 
-### Lens options
+#### Lens options
 [Arducam C/CS Mount lenses for Raspberry Pi HQ Camera](https://www.arducam.com/raspberry-pi-high-quality-camera-c-cs-mount-lens/)
 
-## NetworkTables on Jetson
+### NetworkTables on Jetson
 [Getting NetworkTables running on the Jetson per Bill Kinahan (kinahawi) of FRC Team 4572 - ChiefDelphi](https://www.chiefdelphi.com/t/jetson-for-cargo-in-2022/400988/31)
 [Andy Gasser (gdefender), programming mentor for Team 7028 used RobotPy and shared their code - ChiefDelphi](https://www.chiefdelphi.com/t/jetson-for-cargo-in-2022/400988/32)
 ## ROS
