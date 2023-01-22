@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Our team uses a few different programming languages for different purposes. Find resources to learn C++, Python, Markdown and more.     </>
+        Our team uses a few different programming languages for different purposes. Find resources to learn C++, Python, Markdown and more.
       </>
     ),
   },
