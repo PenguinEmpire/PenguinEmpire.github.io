@@ -19,7 +19,7 @@ These links have been useful to our club members. Hopefully they will be useful 
 [Motion Detection | navX MXP](http://www.pdocs.kauailabs.com/navx-mxp/examples/rotate-to-angle/)
 
 ## Swerve Drive
-[Swerve Drive Kinematics — FRC documentation](https://docs.wpilib.org/en/stable/docs/software/kinematics-and-odometry/swerve-drive-kinematics.html)
+- [Swerve Drive Kinematics — FRC documentation](https://docs.wpilib.org/en/stable/docs/software/kinematics-and-odometry/swerve-drive-kinematics.html)
 [Rectengular Swerve with MK4 - Technical / Programming - Chief Delphi](https://www.chiefdelphi.com/t/rectengular-swerve-with-mk4/399906/4)
 [Paper: 4 wheel independent drive & independent steering ("swerve") - CD-Media: Papers - Chief Delphi](https://www.chiefdelphi.com/t/paper-4-wheel-independent-drive-independent-steering-swerve/107383)
 [Issues with swervedrivespecialties mk3 swerve program - Technical - Chief Delphi](https://www.chiefdelphi.com/t/issues-with-swervedrivespecialties-mk3-swerve-program/395499/2)
