@@ -43,8 +43,8 @@ These links have been useful to our club members. Hopefully they will be useful 
 - [Sept 2022 FRC blog post describing AprilTag target usage](https://www.firstinspires.org/robotics/frc/blog/2022-control-system-reporting-2023-updates-and-beta-testing)
 - [Oct 2022 - Bill Kinahan (kinahawi) of FRC Team 4572 working with OpenCV, apriltags and Nano with RPi camera](https://www.firstinspires.org/robotics/frc/blog/2022-control-system-reporting-2023-updates-and-beta-testing)
 - [Github - AprilTag ID to Pose API merged into wpilibsuite:main](https://github.com/wpilibsuite/allwpilib/pull/4421/files)
--  [TagTracker from Southwest Robotics Programming github](https://github.com/SouthwestRoboticsProgramming/TagTracker)
--  [TagTracker Wiki](https://github.com/SouthwestRoboticsProgramming/TagTracker/wiki)
+- [TagTracker from Southwest Robotics Programming github](https://github.com/SouthwestRoboticsProgramming/TagTracker)
+- [TagTracker Wiki](https://github.com/SouthwestRoboticsProgramming/TagTracker/wiki)
 - [TagTracker Installation](https://github.com/SouthwestRoboticsProgramming/TagTracker/wiki/Installation)
 - [PhotonVision - Getting started with AprilTags](https://docs.photonvision.org/en/latest/docs/getting-started/april-tags.html)
 - [PhotonVision documentation for getting AprilTag data from a target](https://docs.photonvision.org/en/latest/docs/programming/photonlib/getting-target-data.html#getting-apriltag-data-from-a-target)
@@ -85,7 +85,7 @@ For VPI1.2:
 > - Image Erode\Dilate algorithm on CPU and GPU backends
 > - Image Min\Max location algorithm on CPU and GPU backends
 
-[Configuring the Jetson CSI Connector (30-pin Expansion Header)](https://docs.nvidia.com/jetson/archives/l4t-archived/l4t-3273/index.html#page/Tegra%20Linux%20Driver%20Package%20Development%20Guide/hw_setup_jetson_io.html#wwpID0E02D0HA)
+- [Configuring the Jetson CSI Connector (30-pin Expansion Header)](https://docs.nvidia.com/jetson/archives/l4t-archived/l4t-3273/index.html#page/Tegra%20Linux%20Driver%20Package%20Development%20Guide/hw_setup_jetson_io.html#wwpID0E02D0HA)
 
 ### NVIDIA Jetson Orin Nano (available in March 2023)
 - [Jetson Orin Modules and Developer Kit
@@ -160,7 +160,7 @@ Raspberry Pi HQ camera with C/CS-Mount lens
 
 ### Limelight 3
 - [Limelight Vision for FRC on YouTube](https://youtu.be/rNEqI0NizVs)
-> - h.264 video streaming, object recognition, field localization and april tags integration all included
+> (h.264 video streaming, object recognition, field localization and april tags integration all included)
 
 ## OpenCV
 - [OpenCV.org](https://opencv.org/)
