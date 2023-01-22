@@ -14,7 +14,7 @@ const FeatureList = [
   },
   {
     title: 'FRC and WPILib',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/wpilibdocslogo.svg').default,
     description: (
       <>
         The WPI Robotics Library (WPILib) is the standard software library used for FRC. Learn how we use WPILib to create code for our robots.
