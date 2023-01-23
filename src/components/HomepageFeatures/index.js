@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Learn to code',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/coding-monitor-svgrepo-com.svg').default,
     description: (
       <>
         Our team uses a few different programming languages for different purposes. Find resources to learn C++, Python, Markdown and more.
@@ -23,7 +23,7 @@ const FeatureList = [
   },
   {
     title: 'Advanced Topics',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/penguin_admin.svg').default,
     description: (
       <>
         We are learning about Computer Vision, Machine Learning and other advanced topics. Learn more here.
