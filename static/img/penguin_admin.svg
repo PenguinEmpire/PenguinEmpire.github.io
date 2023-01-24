@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   width="165"
-   height="200"
+   width="163.35001"
+   height="198"
    style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
    id="svg773"
    sodipodi:docname="penguin_admin.svg"
    inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   viewBox="0 0 495.00002 600.00001"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,7 +25,7 @@
      inkscape:deskcolor="#d1d1d1"
      showgrid="false"
      inkscape:zoom="0.43333333"
-     inkscape:cx="246.92308"
+     inkscape:cx="214.61539"
      inkscape:cy="300"
      inkscape:window-width="717"
      inkscape:window-height="480"
@@ -33,7 +34,8 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="svg773" />
   <g
-     id="g419">
+     id="g419"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#fefefe"
@@ -41,7 +43,8 @@
        id="path417" />
   </g>
   <g
-     id="g423">
+     id="g423"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#fdfdfd"
@@ -49,7 +52,8 @@
        id="path421" />
   </g>
   <g
-     id="g427">
+     id="g427"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#0d0d0e"
@@ -57,7 +61,8 @@
        id="path425" />
   </g>
   <g
-     id="g431">
+     id="g431"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#f8f8f8"
@@ -65,7 +70,8 @@
        id="path429" />
   </g>
   <g
-     id="g435">
+     id="g435"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#b0babd"
@@ -73,7 +79,8 @@
        id="path433" />
   </g>
   <g
-     id="g439">
+     id="g439"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#f8f8f8"
@@ -81,7 +88,8 @@
        id="path437" />
   </g>
   <g
-     id="g443">
+     id="g443"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#ab6130"
@@ -89,7 +97,8 @@
        id="path441" />
   </g>
   <g
-     id="g447">
+     id="g447"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#f78031"
@@ -97,7 +106,8 @@
        id="path445" />
   </g>
   <g
-     id="g451">
+     id="g451"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#de7b3d"
@@ -105,7 +115,8 @@
        id="path449" />
   </g>
   <g
-     id="g455">
+     id="g455"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#e97e3a"
@@ -113,7 +124,8 @@
        id="path453" />
   </g>
   <g
-     id="g459">
+     id="g459"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#3e1107"
@@ -121,7 +133,8 @@
        id="path457" />
   </g>
   <g
-     id="g463">
+     id="g463"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#d3d3d3"
@@ -129,7 +142,8 @@
        id="path461" />
   </g>
   <g
-     id="g467">
+     id="g467"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#ee8037"
@@ -137,7 +151,8 @@
        id="path465" />
   </g>
   <g
-     id="g471">
+     id="g471"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#f0f0f0"
@@ -145,7 +160,8 @@
        id="path469" />
   </g>
   <g
-     id="g475">
+     id="g475"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#fc7e2b"
@@ -153,7 +169,8 @@
        id="path473" />
   </g>
   <g
-     id="g479">
+     id="g479"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#d0763f"
@@ -161,7 +178,8 @@
        id="path477" />
   </g>
   <g
-     id="g483">
+     id="g483"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#131313"
@@ -169,7 +187,8 @@
        id="path481" />
   </g>
   <g
-     id="g487">
+     id="g487"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#0b0d12"
@@ -177,7 +196,8 @@
        id="path485" />
   </g>
   <g
-     id="g491">
+     id="g491"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#181c5d"
@@ -185,7 +205,8 @@
        id="path489" />
   </g>
   <g
-     id="g495">
+     id="g495"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#181c5f"
@@ -193,7 +214,8 @@
        id="path493" />
   </g>
   <g
-     id="g499">
+     id="g499"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#546fba"
@@ -201,7 +223,8 @@
        id="path497" />
   </g>
   <g
-     id="g503">
+     id="g503"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#1b2266"
@@ -209,7 +232,8 @@
        id="path501" />
   </g>
   <g
-     id="g507">
+     id="g507"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#7b8fc9"
@@ -217,7 +241,8 @@
        id="path505" />
   </g>
   <g
-     id="g511">
+     id="g511"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#131959"
@@ -225,7 +250,8 @@
        id="path509" />
   </g>
   <g
-     id="g515">
+     id="g515"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#d1d9e8"
@@ -233,7 +259,8 @@
        id="path513" />
   </g>
   <g
-     id="g519">
+     id="g519"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#afbcdd"
@@ -241,7 +268,8 @@
        id="path517" />
   </g>
   <g
-     id="g523">
+     id="g523"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#1b2260"
@@ -249,7 +277,8 @@
        id="path521" />
   </g>
   <g
-     id="g527">
+     id="g527"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#4162b8"
@@ -257,7 +286,8 @@
        id="path525" />
   </g>
   <g
-     id="g531">
+     id="g531"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#5673c0"
@@ -265,7 +295,8 @@
        id="path529" />
   </g>
   <g
-     id="g535">
+     id="g535"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#4f649c"
@@ -273,7 +304,8 @@
        id="path533" />
   </g>
   <g
-     id="g539">
+     id="g539"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#7886c2"
@@ -281,7 +313,8 @@
        id="path537" />
   </g>
   <g
-     id="g543">
+     id="g543"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#1f2b6a"
@@ -289,7 +322,8 @@
        id="path541" />
   </g>
   <g
-     id="g547">
+     id="g547"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#202c69"
@@ -297,7 +331,8 @@
        id="path545" />
   </g>
   <g
-     id="g551">
+     id="g551"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#202762"
@@ -305,7 +340,8 @@
        id="path549" />
   </g>
   <g
-     id="g555">
+     id="g555"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#7289c7"
@@ -313,7 +349,8 @@
        id="path553" />
   </g>
   <g
-     id="g559">
+     id="g559"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#5e8bd0"
@@ -321,7 +358,8 @@
        id="path557" />
   </g>
   <g
-     id="g563">
+     id="g563"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#bcb9ad"
@@ -329,7 +367,8 @@
        id="path561" />
   </g>
   <g
-     id="g567">
+     id="g567"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#eee9b7"
@@ -337,7 +376,8 @@
        id="path565" />
   </g>
   <g
-     id="g571">
+     id="g571"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#fbe7c7"
@@ -345,7 +385,8 @@
        id="path569" />
   </g>
   <g
-     id="g575">
+     id="g575"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#619bf4"
@@ -353,7 +394,8 @@
        id="path573" />
   </g>
   <g
-     id="g579">
+     id="g579"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#bacbde"
@@ -361,7 +403,8 @@
        id="path577" />
   </g>
   <g
-     id="g583">
+     id="g583"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#c2cddc"
@@ -369,7 +412,8 @@
        id="path581" />
   </g>
   <g
-     id="g587">
+     id="g587"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#b4c3de"
@@ -377,7 +421,8 @@
        id="path585" />
   </g>
   <g
-     id="g591">
+     id="g591"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#c0cee4"
@@ -385,7 +430,8 @@
        id="path589" />
   </g>
   <g
-     id="g595">
+     id="g595"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#619bf2"
@@ -393,7 +439,8 @@
        id="path593" />
   </g>
   <g
-     id="g599">
+     id="g599"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#1a1a22"
@@ -401,7 +448,8 @@
        id="path597" />
   </g>
   <g
-     id="g603">
+     id="g603"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#c0b8c4"
@@ -409,7 +457,8 @@
        id="path601" />
   </g>
   <g
-     id="g607">
+     id="g607"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#cfcbdc"
@@ -417,7 +466,8 @@
        id="path605" />
   </g>
   <g
-     id="g611">
+     id="g611"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#0b0710"
@@ -425,7 +475,8 @@
        id="path609" />
   </g>
   <g
-     id="g615">
+     id="g615"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#c5c3d0"
@@ -433,7 +484,8 @@
        id="path613" />
   </g>
   <g
-     id="g619">
+     id="g619"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#cac8d5"
@@ -441,7 +493,8 @@
        id="path617" />
   </g>
   <g
-     id="g623">
+     id="g623"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#c7c4d1"
@@ -449,7 +502,8 @@
        id="path621" />
   </g>
   <g
-     id="g627">
+     id="g627"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#b8b5c2"
@@ -457,7 +511,8 @@
        id="path625" />
   </g>
   <g
-     id="g631">
+     id="g631"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#c6c4d0"
@@ -465,7 +520,8 @@
        id="path629" />
   </g>
   <g
-     id="g635">
+     id="g635"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#b5b1be"
@@ -473,7 +529,8 @@
        id="path633" />
   </g>
   <g
-     id="g639">
+     id="g639"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#c6c4d2"
@@ -481,7 +538,8 @@
        id="path637" />
   </g>
   <g
-     id="g643">
+     id="g643"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#c4c2cc"
@@ -489,7 +547,8 @@
        id="path641" />
   </g>
   <g
-     id="g647">
+     id="g647"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#d3d1dd"
@@ -497,7 +556,8 @@
        id="path645" />
   </g>
   <g
-     id="g651">
+     id="g651"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#868e90"
@@ -505,7 +565,8 @@
        id="path649" />
   </g>
   <g
-     id="g655">
+     id="g655"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#9bb4de"
@@ -513,7 +574,8 @@
        id="path653" />
   </g>
   <g
-     id="g659">
+     id="g659"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#e3e4e4"
@@ -521,7 +583,8 @@
        id="path657" />
   </g>
   <g
-     id="g663">
+     id="g663"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#fafafa"
@@ -529,7 +592,8 @@
        id="path661" />
   </g>
   <g
-     id="g667">
+     id="g667"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#565656"
@@ -537,7 +601,8 @@
        id="path665" />
   </g>
   <g
-     id="g671">
+     id="g671"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#92a3a8"
@@ -545,7 +610,8 @@
        id="path669" />
   </g>
   <g
-     id="g675">
+     id="g675"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#5f83ba"
@@ -553,7 +619,8 @@
        id="path673" />
   </g>
   <g
-     id="g679">
+     id="g679"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#a2c8d3"
@@ -561,7 +628,8 @@
        id="path677" />
   </g>
   <g
-     id="g683">
+     id="g683"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#e57b38"
@@ -569,7 +637,8 @@
        id="path681" />
   </g>
   <g
-     id="g687">
+     id="g687"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#f9f9f8"
@@ -577,7 +646,8 @@
        id="path685" />
   </g>
   <g
-     id="g691">
+     id="g691"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#f2f2f1"
@@ -585,7 +655,8 @@
        id="path689" />
   </g>
   <g
-     id="g695">
+     id="g695"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#f4f5f4"
@@ -593,7 +664,8 @@
        id="path693" />
   </g>
   <g
-     id="g699">
+     id="g699"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#757571"
@@ -601,7 +673,8 @@
        id="path697" />
   </g>
   <g
-     id="g703">
+     id="g703"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#52646b"
@@ -609,7 +682,8 @@
        id="path701" />
   </g>
   <g
-     id="g707">
+     id="g707"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#191919"
@@ -617,7 +691,8 @@
        id="path705" />
   </g>
   <g
-     id="g711">
+     id="g711"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#828281"
@@ -625,7 +700,8 @@
        id="path709" />
   </g>
   <g
-     id="g715">
+     id="g715"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#4d6266"
@@ -633,7 +709,8 @@
        id="path713" />
   </g>
   <g
-     id="g719">
+     id="g719"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#c97038"
@@ -641,7 +718,8 @@
        id="path717" />
   </g>
   <g
-     id="g723">
+     id="g723"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#f87e2e"
@@ -649,7 +727,8 @@
        id="path721" />
   </g>
   <g
-     id="g727">
+     id="g727"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#283437"
@@ -657,7 +736,8 @@
        id="path725" />
   </g>
   <g
-     id="g731">
+     id="g731"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#cb723a"
@@ -665,7 +745,8 @@
        id="path729" />
   </g>
   <g
-     id="g735">
+     id="g735"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#e7e7e7"
@@ -673,7 +754,8 @@
        id="path733" />
   </g>
   <g
-     id="g739">
+     id="g739"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#c27646"
@@ -681,7 +763,8 @@
        id="path737" />
   </g>
   <g
-     id="g743">
+     id="g743"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#aaaaaa"
@@ -689,7 +772,8 @@
        id="path741" />
   </g>
   <g
-     id="g747">
+     id="g747"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#f67e30"
@@ -697,7 +781,8 @@
        id="path745" />
   </g>
   <g
-     id="g751">
+     id="g751"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#170e0d"
@@ -705,7 +790,8 @@
        id="path749" />
   </g>
   <g
-     id="g755">
+     id="g755"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#d87e47"
@@ -713,7 +799,8 @@
        id="path753" />
   </g>
   <g
-     id="g759">
+     id="g759"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#7f8285"
@@ -721,7 +808,8 @@
        id="path757" />
   </g>
   <g
-     id="g763">
+     id="g763"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#a76131"
@@ -729,7 +817,8 @@
        id="path761" />
   </g>
   <g
-     id="g767">
+     id="g767"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#421c11"
@@ -737,7 +826,8 @@
        id="path765" />
   </g>
   <g
-     id="g771">
+     id="g771"
+     transform="translate(0.5,0.5)">
     <path
        style="opacity:1"
        fill="#687b82"
