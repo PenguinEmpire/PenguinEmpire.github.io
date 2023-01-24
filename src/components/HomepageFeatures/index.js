@@ -1,6 +1,7 @@
 import React from 'react';
 import clsx from 'clsx';
 import styles from './styles.module.css';
+import Link from '@docusaurus/Link';
 
 const FeatureList = [
   {
@@ -38,13 +39,13 @@ function Feature({Svg, title, description}) {
       <div className="text--center">
         <Svg className={styles.featureSvg} role="img" />
       </div>
-      {/* <div className={styles.buttons}>
+      <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
             {title}
           </Link>
-      </div> */}
+      </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
         <p>{description}</p>
