@@ -38,17 +38,15 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/PenguinEmpire/PenguinEmpire.github.io/',
+            'https://github.com/PenguinEmpire/PenguinEmpire.github.io/tree/main/',
         },
-        blog: null
-/*         {
+        blog:  {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/PenguinEmpire/PenguinEmpire.github.io/',
-        } */
-        ,
+            'https://github.com/PenguinEmpire/PenguinEmpire.github.io/tree/main/',
+        },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
