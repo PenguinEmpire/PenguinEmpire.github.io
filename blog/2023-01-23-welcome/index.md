@@ -25,7 +25,7 @@ The blog post date can be extracted from filenames, such as:
 :::tip
 A blog post folder can be convenient to co-locate blog post images:
 
-![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)
+![Penguin Coding](./penguin_admin.jpg)
 :::
 
 The blog supports tags as well!
