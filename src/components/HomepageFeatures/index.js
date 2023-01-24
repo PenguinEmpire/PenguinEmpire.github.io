@@ -6,6 +6,7 @@ import Link from '@docusaurus/Link';
 const FeatureList = [
   {
     title: 'Learn to code',
+    url: "/docs/intro",
     Svg: require('@site/static/img/coding-monitor-svgrepo-com.svg').default,
     description: (
       <>
@@ -15,6 +16,7 @@ const FeatureList = [
   },
   {
     title: 'FRC and WPILib',
+    url: "/docs/tutorial-basics",
     Svg: require('@site/static/img/wpilibdocslogo.svg').default,
     description: (
       <>
@@ -24,6 +26,7 @@ const FeatureList = [
   },
   {
     title: 'Advanced Topics',
+    url: "/docs/tutorial-extras",
     Svg: require('@site/static/img/penguin_admin.svg').default,
     description: (
       <>
@@ -33,7 +36,7 @@ const FeatureList = [
   },
 ];
 
-function Feature({Svg, title, description}) {
+function Feature({Svg, title, url, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
@@ -42,7 +45,7 @@ function Feature({Svg, title, description}) {
       <div className={styles.buttons}>
           <Link
             className="button button--secondary button--lg"
-            to="/docs/intro">
+            to={url}>
             {title}
           </Link>
       </div>
