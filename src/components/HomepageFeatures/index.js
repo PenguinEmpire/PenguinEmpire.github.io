@@ -30,7 +30,7 @@ const FeatureList = [
     Svg: require('@site/static/img/penguin_admin.svg').default,
     description: (
       <>
-        We are learning about Computer Vision, Machine Learning and other advanced topics. Learn more here.
+        We are working on about Computer Vision and Machine Learning. Learn about these advanced topics and more.
       </>
     ),
   },
