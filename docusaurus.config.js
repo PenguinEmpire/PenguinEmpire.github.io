@@ -75,10 +75,11 @@ const config = {
           {
             to: '/blog', 
             label: 'Blog', 
-            position: 'left'},
+            position: 'left'
+          },
           {
-            href: 'https://github.com/PenguinEmpire',
-            label: 'GitHub',
+            href: 'https://www.penguinempirerobotics.org/',
+            label: 'to penguinempirerobotics.org',
             position: 'right',
           },
         ],
