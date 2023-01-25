@@ -6,7 +6,7 @@ import Link from '@docusaurus/Link';
 const FeatureList = [
   {
     title: 'Learn to code',
-    url: '/docs/intro',
+    url: '/docs/category/learn-to-code',
     Svg: require('@site/static/img/coding-monitor-svgrepo-com.svg').default,
     description: (
       <>
@@ -16,7 +16,7 @@ const FeatureList = [
   },
   {
     title: 'FRC and WPILib',
-    url: '/docs/tutorial-basics/congratulations',
+    url: '/docs/category/frc-and-wpilib',
     Svg: require('@site/static/img/wpilibdocslogo.svg').default,
     description: (
       <>
@@ -26,7 +26,7 @@ const FeatureList = [
   },
   {
     title: 'Advanced Topics',
-    url: '/docs/tutorial-extras/manage-docs-versions',
+    url: '/docs/category/advanced-topics',
     Svg: require('@site/static/img/penguin_admin.svg').default,
     description: (
       <>

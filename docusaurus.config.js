@@ -89,8 +89,16 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'Learn to Code',
+                to: '/docs/category/learn-to-code',
+              },
+              {
+                label: 'FRC and WPIlib',
+                to: '/docs/category/frc-and-wpilib',
+              },
+              {
+                label: 'Advanced Topics',
+                to: '/docs/category/advanced-topics',
               },
             ],
           },
