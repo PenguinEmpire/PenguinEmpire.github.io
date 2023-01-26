@@ -1,8 +1,10 @@
 ---
+title: Zed camera
 sidebar_position: 4
 ---
 
 # StereoLabs Zed camera
+Determines distances to targets and objects
 
 > The ZED is a camera that reproduces the way human vision works. Using its two “eyes” and through triangulation, the ZED provides a three-dimensional understanding of the scene it observes, allowing your application to become space and motion aware.
 

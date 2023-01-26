@@ -1,9 +1,16 @@
 ---
+title: Robot Operating System
 sidebar_position: 6
 ---
 
-# Robot Operating System (ROS)
+## Robot Operating System (ROS)
+Open-source SDK platform for robotics apps
 
+- [ROS.org](https://www.ros.org/)
+- [2023 FRC discussion of ROS on Reddit](https://www.reddit.com/r/FRC/comments/10ivi5a/how_would_your_rate_your_knowledge_of_ros_robot/)
+
+### ROS Training
+- [ROS Development Studio - The Construct](https://www.theconstructsim.com/the-ros-development-studio-by-the-construct/)
 ### ROS Cameras
 - [ros-drivers/gscam: ROS Camera driver for GStreamer-based video streams - GitHub](https://github.com/ros-drivers/gscam)
 [IntelROSProject - ROS Wiki](http://wiki.ros.org/IntelROSProject)
@@ -33,3 +40,10 @@ sidebar_position: 6
 
 ### ROS Navigation (Nav2)
 - [Getting Started — Navigation 2 1.0.0 documentation](https://navigation.ros.org/getting_started/index.html)
+
+- [SLAM navigation for FRC using ROS](https://github.com/JakeAllison/FRC-ROS)
+- [SLAM navigation for FRC using ROS2](https://github.com/JakeAllison/FRC-ROS2)
+
+### ROS Blogs
+
+- [Automatic Addison - search for ROS](https://automaticaddison.com/?s=ROS)

@@ -1,8 +1,10 @@
 ---
+title: GStreamer
 sidebar_position: 2
 ---
 
 # GStreamer multimedia framework
+Video from robot to driver station
 
 - [GStreamer Documentation](https://gstreamer.freedesktop.org/documentation/)
 - [Installing GStreamer](https://gstreamer.freedesktop.org/documentation/installing/index.html)

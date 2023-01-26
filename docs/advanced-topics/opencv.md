@@ -3,6 +3,7 @@ sidebar_position: 5
 ---
 
 # OpenCV
+Computer Vision Library 
 
 - [OpenCV.org](https://opencv.org/)
 - [OpenCV v4.1.1](https://docs.opencv.org/4.1.1/) works well with Python 2

@@ -3,6 +3,7 @@ sidebar_position: 1
 ---
 
 # NVIDIA Jetson
+AI computer for autonomous machines
 
 - [NVIDIA Developer site](https://developer.nvidia.com/)
 - [Jetson AI Courses and Certifications](https://developer.nvidia.com/embedded/learn/jetson-ai-certification-programs)
