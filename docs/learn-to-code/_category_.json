@@ -3,6 +3,6 @@
   "position": 2,
   "link": {
     "type": "generated-index",
-    "description": "5 minutes to learn the most important Docusaurus concepts."
+    "description": "Our team uses C++ on the RoboRio for the primary robot control. We also sometimes use Python for handling computer vision. This site is built with react.js and most pages are done in markdown"
   }
 }
