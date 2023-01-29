@@ -2,16 +2,18 @@
 sidebar_position: 3
 ---
 
-# Markdown
+## Markdown
 
-# What is it
+#### What is it
 
 A language that is appealing for people to read when it's actually in source code form
 
-# Courses
+### Courses
 - [Codeacademy](https://www.codecademy.com/resources/docs/markdown)
   * Teaches the basics of markdown and its syntax
 
-# Cheat Sheet
+### Cheat Sheets
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
   * A quick overview of all the syntax elements
+
+- [Markdown quick reference from WordPress](https://wordpress.com/support/markdown-quick-reference/)

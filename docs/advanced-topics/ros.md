@@ -1,13 +1,15 @@
 ---
-title: Robot Operating System
+title: ROS
 sidebar_position: 6
 ---
 
-## Robot Operating System (ROS)
+## Robot Operating System
 Open-source SDK platform for robotics apps
 
 - [ROS.org](https://www.ros.org/)
 - [2023 FRC discussion of ROS on Reddit](https://www.reddit.com/r/FRC/comments/10ivi5a/how_would_your_rate_your_knowledge_of_ros_robot/)
+
+- [2022 ROS discussion on ChiefDelphi](https://www.chiefdelphi.com/t/using-ros-for-inspiration-in-frc/411561)
 
 ### ROS Training
 - [ROS Development Studio - The Construct](https://www.theconstructsim.com/the-ros-development-studio-by-the-construct/)

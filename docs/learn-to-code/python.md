@@ -4,7 +4,7 @@ sidebar_position: 4
 
 # Python
 
-# Courses
+### Courses
 - [SoloLearn Beginner](https://www.sololearn.com/learn/courses/python-introduction)
   * Used for beginners, learn the basic syntax and functions used in Python
 
