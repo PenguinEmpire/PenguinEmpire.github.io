@@ -1,0 +1,8 @@
+{
+  "label": "3rd Party Libraries",
+  "position": 40,
+  "link": {
+    "type": "generated-index",
+    "description": "external vendor dependencies"
+  }
+}

@@ -1,8 +1,11 @@
 ---
 title: PhotonVision
-sidebar_position: 13
+sidebar_position: 20
 ---
 for vision with AprilTags
+
+### Links from WPILib to PhotonVision
+- [PhotonVision - Library for PhotonVision CV software](https://docs.wpilib.org/en/stable/docs/software/vscode-overview/3rd-party-libraries.html#community-libraries)
 
 ### PhotonVision Docs
 - [PhotonVision - Getting started with AprilTags](https://docs.photonvision.org/en/latest/docs/getting-started/april-tags.html)
