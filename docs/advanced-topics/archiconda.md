@@ -2,9 +2,10 @@
 title: Archiconda
 sidebar_position: 7
 ---
+Conda package manager
 
-## Archiconda
-Python environment manager on Jetson
+
+We used Archiconda as a Python environment manager on Jetson Nano
 
 Archiconda is a distribution of conda for 64-bit arm.
 Conda is an open-source, cross-platform, language-agnostic package manager and environment management system, popular for Python and R.

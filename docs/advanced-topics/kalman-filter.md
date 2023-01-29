@@ -2,9 +2,7 @@
 title: Kalman filter
 sidebar_position: 10
 ---
-
-### Kalman filter
-linear quadratic estimation (LQE)
+LQE = linear quadratic estimation
 
 - [What is a Kalman Filter? - DeepAI](https://deepai.org/machine-learning-glossary-and-terms/kalman-filter)
 - [Wikipedia - Kalman filter](https://en.wikipedia.org/wiki/Kalman_filter)

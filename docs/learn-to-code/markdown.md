@@ -1,11 +1,10 @@
 ---
+Title: Markdown
 sidebar_position: 3
 ---
+For Docusaurus
 
-## Markdown
-
-#### What is it
-
+#### What is Markdown?
 A language that is appealing for people to read when it's actually in source code form
 
 ### Courses

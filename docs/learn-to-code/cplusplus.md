@@ -1,8 +1,9 @@
 ---
+title: C++
 sidebar_position: 1
 ---
+offers better high-end performance, at the cost of increased user effort 
 
-## C++
 C++ is the primary language we use to program the robots. Other teams use Java or NI LabVIEW
 ### C++ Courses
 - [LearnCPP](https://www.learncpp.com/)
