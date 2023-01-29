@@ -16,6 +16,9 @@ for vision with AprilTags
 - [AprilTags and PhotonPoseEstimator](https://docs.photonvision.org/en/latest/docs/programming/photonlib/robot-pose-estimator.html)
 - [AprilTag Strategies](https://docs.photonvision.org/en/latest/docs/integration/aprilTagStrategies.html)
 - [PhotonVision code examples](https://docs.photonvision.org/en/latest/docs/examples/index.html)
+- [PhotonVision Linux PC Installation](https://docs.photonvision.org/en/latest/docs/getting-started/installation/sw_install/linux-pc.html)
 
+### PhotonVision on GitHub
+- [PhotonVision/photonvision on GitHub](https://github.com/PhotonVision/photonvision)
 ### Discussion
 - [ChiefDelphi - PhotonVision announces AprilTag support in Sept 2022](https://www.chiefdelphi.com/t/photonvision-beta-2023-apriltags/415626)
