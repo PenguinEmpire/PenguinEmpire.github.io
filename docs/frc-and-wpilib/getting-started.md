@@ -9,7 +9,7 @@ WPILib is the standard robotics software library provided for teams to write cod
 Once you understand the basics of programming, specifically [C++](/docs/learn-to-code/cplusplus), you'll want to prepare your local computer environment to be able to control the robot and contribute code to our GitHub repository to improve our robot's performance.
 
 :::tip
-This "[FRC and WPILib](/docs/frc-and-wpilib/)" section links to a subset of the overall WPILib documentation. The links here focus on the sections that we use regularly. There are also additional links to other related resources for many topics. 
+This "[FRC and WPILib](/docs/category/frc-and-wpilib)" section links to a subset of the overall WPILib documentation. The links here focus on the sections that we use regularly. There are also additional links to other related resources for many topics. 
 :::
 
 ### Installing WPILib and other tools
