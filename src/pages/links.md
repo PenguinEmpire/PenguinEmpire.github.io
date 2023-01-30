@@ -44,7 +44,7 @@ These links have been useful to our club members. Hopefully they will be useful 
 - [AprilRobotics/apriltag on GitHub](https://github.com/AprilRobotics/apriltag)
 - [PenguinEmpire/apriltag on GitHub](https://github.com/PenguinEmpire/apriltag)
     * forked from wpilibsuite/apriltag, which was forked from AprilRobotics/apriltag
-- [Oct 2022 - Bill Kinahan (kinahawi) of FRC Team 4572 working with OpenCV, apriltags and Nano with RPi camera](https://www.firstinspires.org/robotics/frc/blog/2022-control-system-reporting-2023-updates-and-beta-testing)
+- [Oct 2022 - Bill Kinahan (kinahawi) of FRC Team 4572 working with OpenCV, apriltags and Nano with RPi camera - ChiefDelphi](https://www.chiefdelphi.com/t/co-processor-for-upcoming-season-for-vision/415153/40)
 - [Github - AprilTag ID to Pose API merged into wpilibsuite:main](https://github.com/wpilibsuite/allwpilib/pull/4421/files)
 - [TagTracker from Southwest Robotics Programming github](https://github.com/SouthwestRoboticsProgramming/TagTracker)
 - [TagTracker Wiki](https://github.com/SouthwestRoboticsProgramming/TagTracker/wiki)
