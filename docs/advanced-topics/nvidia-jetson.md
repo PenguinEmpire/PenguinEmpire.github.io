@@ -10,11 +10,13 @@ AI computer for autonomous machines
 - [JetsonHacksNano on Github](https://github.com/JetsonHacksNano/)
 
 ### NVIDIA Jetson TX1 (discontinued)
-[Orbitty Carrier for NVIDIA® Jetson™ TX2/TX2i/TX1 - Connect Tech Inc.]http://connecttech.com/product/orbitty-carrier-for-nvidia-jetson-tx2-tx1/)
-[Guide to TX1 from Team 900](https://team900.org/blog/Guide-To-TX1/)
+- [Orbitty Carrier for NVIDIA® Jetson™ TX2/TX2i/TX1 - Connect Tech Inc.](http://connecttech.com/product/orbitty-carrier-for-nvidia-jetson-tx2-tx1/)
+- [Guide to TX1 from Team 900](https://team900.org/blog/Guide-To-TX1/)
 > Powering the TX1 is tricky. From experience. it does not function well with large power fluctuations. Nvidia’s engineers have released a few versions of the carrier board to help with this but you will still want to run a voltage regulator between the board and the power supply.
+
 > Team 900 has had a lot of success with this particular converter in actual FRC competitions:
-[Amazon - DROK DC/DC Automatic Boost Buck Converter Module 60W Constant Voltage/Current Car Voltage Regulator DC5-32V to 1.25-20V Adjustable Current Step Up & Step Down Voltage Converter for Battery Charging](https://www.amazon.com/dp/B00JKG57T4)
+- [Amazon - DROK DC/DC Automatic Boost Buck Converter Module 60W Constant Voltage/Current Car Voltage Regulator DC5-32V to 1.25-20V Adjustable Current Step Up & Step Down Voltage Converter for Battery Charging](https://www.amazon.com/dp/B00JKG57T4)
+
 > Do not use the VRM (Voltage Regulator Module) to power both your Radio and the TX1. If you do it’s entirely possible that your VRM will no longer function after pulling too much current. You might be able to use a second VRM just for the TX1 but you are much better off using the voltage regulator linked above as it is cheaper and has been tested in competitions.
 
 ### NVIDIA Jetson Nano 2GB
@@ -29,8 +31,8 @@ The [Jetson Linux Archive](https://developer.nvidia.com/embedded/jetson-linux-ar
 
 JetPack is a useful tool for loading extra software on the Jetson. The [JetPack Archive](https://developer.nvidia.com/embedded/jetpack-archive) shows that [JetPack 4.6.3](https://developer.nvidia.com/jetpack-sdk-463) was the latest version supported on the TX1 and Nano as of early 2023. Note that it includes Jetson Linux for Tegra (L4T) 32.7.3.
 
-JetPack 4.6.1 (and 4.6.3) includes OpenCV 4.1.1 and  [VPI 1.2](https://docs.nvidia.com/vpi/release_notes.html)
-For VPI1.2:
+JetPack 4.6.1 (and 4.6.3) includes OpenCV 4.1.1 and [VPI 1.2](https://docs.nvidia.com/vpi/release_notes.html)
+#### For VPI1.2:
 - Production quality support for Python bindings
 - Multi-Stream support in Python bindings to allow creation of multiple streams to parallelize operations
 - Support for calling Python scripts in a VPI Stream
