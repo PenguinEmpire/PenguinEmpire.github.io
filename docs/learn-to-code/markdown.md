@@ -9,10 +9,10 @@ A language that is appealing for people to read when it's actually in source cod
 
 ### Courses
 - [Codeacademy](https://www.codecademy.com/resources/docs/markdown)
-  * Teaches the basics of markdown and its syntax
+  - Teaches the basics of markdown and its syntax
 
 ### Cheat Sheets
 - [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
-  * A quick overview of all the syntax elements
+  - A quick overview of all the syntax elements
 
 - [Markdown quick reference from WordPress](https://wordpress.com/support/markdown-quick-reference/)

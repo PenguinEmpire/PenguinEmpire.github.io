@@ -21,10 +21,10 @@ This "[FRC and WPILib](/docs/category/frc-and-wpilib)" section links to a subset
 
 ### WPILib on GitHub
 - [WPILib Suite](https://github.com/wpilibsuite)
-    * The official repositories of the WPILib Suite, a robotics software library used for FRC
+    - The official repositories of the WPILib Suite, a robotics software library used for FRC
 - [WPILib C++ source code](https://github.com/wpilibsuite/allwpilib/tree/main/wpilibc/src/main/native/cpp)
 - [frc-docs repo for docs.wpilib.org](https://github.com/wpilibsuite/frc-docs)
-    * repo for Official FRC Documentation
+    - repo for Official FRC Documentation
 
 ### Team 2551 Robot code (some links may be private)
 - [PenguinEmpire/FRC2023](https://github.com/PenguinEmpire/FRC2023)

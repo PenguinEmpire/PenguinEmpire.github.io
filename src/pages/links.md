@@ -85,8 +85,8 @@ For VPI1.2:
 - Multi-Stream support in Python bindings to allow creation of multiple streams to parallelize operations
 - Support for calling Python scripts in a VPI Stream
 - New algorithms
-> - Image Erode\Dilate algorithm on CPU and GPU backends
-> - Image Min\Max location algorithm on CPU and GPU backends
+    - Image Erode\Dilate algorithm on CPU and GPU backends
+    - Image Min\Max location algorithm on CPU and GPU backends
 
 - [Configuring the Jetson CSI Connector (30-pin Expansion Header)](https://docs.nvidia.com/jetson/archives/l4t-archived/l4t-3273/index.html#page/Tegra%20Linux%20Driver%20Package%20Development%20Guide/hw_setup_jetson_io.html#wwpID0E02D0HA)
 
@@ -121,7 +121,7 @@ Raspberry Pi HQ camera with C/CS-Mount lens
 ### From FRC Team 624 - CRyptonite Robotics from Texas
 - [2020 ROS discussion on Chief Delphi](https://www.chiefdelphi.com/t/frc-robotics-with-ros/384928)
 
-> [Team 624](https://frc624.org/) (CRyptonite Robotics) from Texas used a coprocessor from [Up-Board](https://up-board.org/) along with WPIlib Java on the RoboRIO. They ran a ROS environment on Ubuntu 20.04 on the co-processor for custom vision tracking and autonomous path planning.
+    - [Team 624](https://frc624.org/) (CRyptonite Robotics) from Texas used a coprocessor from [Up-Board](https://up-board.org/) along with WPIlib Java on the RoboRIO. They ran a ROS environment on Ubuntu 20.04 on the co-processor for custom vision tracking and autonomous path planning.
 
 - [Github - LeonidasVarveropoulos/robot-frc: This is a ROS catkin workspace for a robot in frc](https://github.com/LeonidasVarveropoulos/robot-frc)
 - [GitHub - LeonidasVarveropoulos/UnitySimulator-ROS: This is a Unity project that works as a simulator for the ROS FRC robot code hosted in the robot-frc repo.](https://github.com/LeonidasVarveropoulos/UnitySimulator-ROS)

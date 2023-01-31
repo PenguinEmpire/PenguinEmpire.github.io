@@ -9,7 +9,7 @@ sidebar_position: 1
 
 As you use this website to help you learn, you can also help edit it. 
 
-This website uses an open-source project named [Docusaurus](/docs/learn-to-code/docusaurus) for building, deploying, and maintaining this website. Most of the pages here are built with a very simple language named [markdown](/docs/learn-to-code/markdown). If you click "Edit this page" at the bottom of any page, that will take you to the github location for the specific file that generates that page.
+This website uses an open-source project named **Docusaurus** for building, deploying, and maintaining this website. Most of the pages here are built with a very simple language named [markdown](/docs/learn-to-code/markdown). If you click "Edit this page" at the bottom of any page, that will take you to the github location for the specific file that generates that page.
 
 You can find all the code we're using at:
 [https://github.com/PenguinEmpire/PenguinEmpire.github.io/](https://github.com/PenguinEmpire/PenguinEmpire.github.io/)
