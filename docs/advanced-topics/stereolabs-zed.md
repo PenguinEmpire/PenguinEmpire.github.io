@@ -12,3 +12,4 @@ Determines distances to targets and objects
 - [StereoLabs SDK Downloads](https://www.stereolabs.com/developers/release/#downloads)
 - [Get Started with ZED](https://www.stereolabs.com/docs/get-started-with-zed/)
 - [How to Use OpenCV with ZED in C++](https://www.stereolabs.com/docs/opencv/)
+- [Zed X - Available for preorder in 2023](https://www.stereolabs.com/zed-x/)

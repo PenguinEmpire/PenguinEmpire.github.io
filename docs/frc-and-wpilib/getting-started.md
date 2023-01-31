@@ -2,7 +2,7 @@
 title: Getting Started
 sidebar_position: 1
 ---
-with WPILib for FRC
+... with WPILib for FRC
 
 WPILib is the standard robotics software library provided for teams to write code for their FIRST® Robotics Competition (FRC®) robots. 
 

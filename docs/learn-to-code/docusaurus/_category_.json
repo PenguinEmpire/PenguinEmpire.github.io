@@ -1,6 +1,6 @@
 {
   "label": "Docusaurus",
-  "position": 2,
+  "position": 20,
   "link": {
     "type": "generated-index",
     "description": "We use an open-source tool named Docusaurus from Meta for this website. As you learn and contribute your coding knowledge to the team, you can also contribute documentation to this docusaurus-based website to share your knowledge with other team members."
