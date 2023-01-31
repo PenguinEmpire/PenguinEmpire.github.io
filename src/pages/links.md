@@ -60,7 +60,7 @@ These links have been useful to our club members. Hopefully they will be useful 
 - [JetsonHacksNano on Github](https://github.com/JetsonHacksNano/)
 
 ### NVIDIA Jetson TX1 (discontinued)
-[Orbitty Carrier for NVIDIA® Jetson™ TX2/TX2i/TX1 - Connect Tech Inc.]http://connecttech.com/product/orbitty-carrier-for-nvidia-jetson-tx2-tx1/)
+[Orbitty Carrier for NVIDIA® Jetson™ TX2/TX2i/TX1 - Connect Tech Inc.](http://connecttech.com/product/orbitty-carrier-for-nvidia-jetson-tx2-tx1/)
 [Guide to TX1 from Team 900](https://team900.org/blog/Guide-To-TX1/)
 > Powering the TX1 is tricky. From experience. it does not function well with large power fluctuations. Nvidia’s engineers have released a few versions of the carrier board to help with this but you will still want to run a voltage regulator between the board and the power supply.
 > Team 900 has had a lot of success with this particular converter in actual FRC competitions:
