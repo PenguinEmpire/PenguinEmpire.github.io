@@ -1,5 +1,5 @@
 ---
-Title: GitHub
+title: GitHub
 sidebar_position: 40
 ---
 Hosting service for software development and version control using Git.
