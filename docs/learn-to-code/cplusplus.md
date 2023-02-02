@@ -20,6 +20,8 @@ C++ is the primary language we use to program the robots. Other teams use Java o
 
 - [CodeAcademy - Learn C++](https://www.codecademy.com/learn/learn-c-plus-plus)
   - Lessons are generally free but additional materials require a subscription.
+- [W3Schools](https://www.w3schools.com/)
+  - Teaches basics of C++ and is a great way to learn for people new to programming. 
 
 ### Books
 - [Programming: Principles and Practice Using C++ 2nd Edition](https://www.amazon.com/dp/B00KPTEH8C)
