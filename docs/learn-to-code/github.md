@@ -8,6 +8,8 @@ In order to contribute your code to [our team's online GitHub repositories](http
 
 If you prefer working with a graphical user interface ([GUI](https://en.wikipedia.org/wiki/Graphical_user_interface)) rather than a command line interface ([CLI](https://en.wikipedia.org/wiki/Command-line_interface)), you can download [Github Desktop](https://docs.github.com/en/get-started/using-github/github-desktop) and use it to do most everything you'll need to do with GitHub.
 
+To contribute your code, read through [GitHub's docs on Managing Branches](https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/making-changes-in-a-branch/managing-branches). Follow the instructions to create a new branch. You can just name it with your name and a number. Then make your changes on that branch and then submit a pull request. 
+
 ### Tour of some of our GitHub repos
 
 #### Recent public repos
