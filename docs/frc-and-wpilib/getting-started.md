@@ -7,7 +7,7 @@ sidebar_position: 1
 WPILib is the standard robotics software library provided for teams to write code for their FIRST® Robotics Competition (FRC®) robots. 
 
 :::tip
-The subsections under this "[FRC and WPILib](/docs/frc-and-wpilib)" section link to a subset of the overall WPILib documentation. The links here focus on the sections that we use regularly. There are also additional links to other related resources for many topics. 
+The subsections under this *FRC and WPILib* section link to a subset of the overall WPILib documentation. The links here focus on the sections that we use regularly. There are also additional links to other related resources for many topics. 
 :::
 
 Once you understand the basics of programming, specifically [C++](/docs/learn-to-code/cplusplus), you'll want to prepare your local computer environment to be able to control the robot and contribute code to our [GitHub](/docs/learn-to-code/github) repository to improve our robot's performance.
