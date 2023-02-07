@@ -6,20 +6,42 @@ sidebar_position: 1
 
 WPILib is the standard robotics software library provided for teams to write code for their FIRST® Robotics Competition (FRC®) robots. 
 
-Once you understand the basics of programming, specifically [C++](/docs/learn-to-code/cplusplus), you'll want to prepare your local computer environment to be able to control the robot and contribute code to our GitHub repository to improve our robot's performance.
-
 :::tip
-This "[FRC and WPILib](/docs/category/frc-and-wpilib)" section links to a subset of the overall WPILib documentation. The links here focus on the sections that we use regularly. There are also additional links to other related resources for many topics. 
+The subsections under this "[FRC and WPILib](/docs/category/frc-and-wpilib)" section link to a subset of the overall WPILib documentation. The links here focus on the sections that we use regularly. There are also additional links to other related resources for many topics. 
 :::
 
+Once you understand the basics of programming, specifically [C++](/docs/learn-to-code/cplusplus), you'll want to prepare your local computer environment to be able to control the robot and contribute code to our [GitHub](/docs/category/learn-to-code/github) repository to improve our robot's performance.
+
+:::info Prerequisites
+If you haven't selected an IDE or set up Git yet on your local environment (laptop), review the [**Getting Started** section of ***Learn to Code***](/docs/category/learn-to-code/getting-started)
+:::
+
+:::note
+We usually have a dedicated Windows computer for each driver station all set up to control the robot. This Windows computer should already have NI LabVIEW installed and running. If you need to prepare a new Windows computer to serve as the driver station computer, you'll need to follow the instructions under [Zero to Robot - Step 2: Installing Software](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/index.html#) labelled ["Installing LabVIEW for FRC (LabVIEW only)"](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/labview-setup.html)
+:::
+
+:::note Procedure
+To get the basics up and running quickly, follow this suggested procedure on your local development environment (laptop):
+
+1. Use Github Desktop to clone the most recent robot code to your local machine. For example, [PenguinEmpire/FRC2023](https://github.com/PenguinEmpire/FRC2023)
+
+1. Review the section named, [Command-Based Programming](/docs/category/frc-and-wpilib/advanced-programming/command-based-programming).
+
+1. *Under constructon*
+:::
+
+## Primary WPILib links
 ### Installing WPILib and other tools
+
 - [WPILib Installation Guide](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html)
 
 ### WPILib Documentation
+
 - [FRC Control System — FRC documentation](https://docs.wpilib.org/en/stable/index.html)
 - [WPILib C++ documentation](https://first.wpi.edu/wpilib/allwpilib/docs/release/cpp/)
 
 ### WPILib on GitHub
+
 - [WPILib Suite](https://github.com/wpilibsuite)
     - The official repositories of the WPILib Suite, a robotics software library used for FRC
 - [WPILib C++ source code](https://github.com/wpilibsuite/allwpilib/tree/main/wpilibc/src/main/native/cpp)
@@ -27,5 +49,6 @@ This "[FRC and WPILib](/docs/category/frc-and-wpilib)" section links to a subset
     - repo for Official FRC Documentation
 
 ### Team 2551 Robot code (some links may be private)
+
 - [PenguinEmpire/FRC2023](https://github.com/PenguinEmpire/FRC2023)
 - [PenguinEmpire/FRC2023-Vision](https://github.com/PenguinEmpire/FRC2023-Vision)
