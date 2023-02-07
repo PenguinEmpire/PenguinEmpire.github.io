@@ -7,13 +7,13 @@ sidebar_position: 1
 WPILib is the standard robotics software library provided for teams to write code for their FIRST® Robotics Competition (FRC®) robots. 
 
 :::tip
-The subsections under this "[FRC and WPILib](/docs/category/frc-and-wpilib)" section link to a subset of the overall WPILib documentation. The links here focus on the sections that we use regularly. There are also additional links to other related resources for many topics. 
+The subsections under this "[FRC and WPILib](/docs/frc-and-wpilib)" section link to a subset of the overall WPILib documentation. The links here focus on the sections that we use regularly. There are also additional links to other related resources for many topics. 
 :::
 
-Once you understand the basics of programming, specifically [C++](/docs/learn-to-code/cplusplus), you'll want to prepare your local computer environment to be able to control the robot and contribute code to our [GitHub](/docs/category/learn-to-code/github) repository to improve our robot's performance.
+Once you understand the basics of programming, specifically [C++](/docs/learn-to-code/cplusplus), you'll want to prepare your local computer environment to be able to control the robot and contribute code to our [GitHub](/docs/learn-to-code/github) repository to improve our robot's performance.
 
 :::info Prerequisites
-If you haven't selected an IDE or set up Git yet on your local environment (laptop), review the [**Getting Started** section of ***Learn to Code***](/docs/category/learn-to-code/getting-started)
+If you haven't selected an IDE or set up Git yet on your local environment (laptop), review the [**Getting Started** section of ***Learn to Code***](/docs/learn-to-code/getting-started)
 :::
 
 :::note
@@ -25,7 +25,7 @@ To get the basics up and running quickly, follow this suggested procedure on you
 
 1. Use Github Desktop to clone the most recent robot code to your local machine. For example, [PenguinEmpire/FRC2023](https://github.com/PenguinEmpire/FRC2023)
 
-1. Review the section named, [Command-Based Programming](/docs/category/frc-and-wpilib/advanced-programming/command-based-programming).
+1. Review the section named, [Command-Based Programming](/docs/frc-and-wpilib/advanced-programming/command-based-programming).
 
 1. *Under constructon*
 :::
@@ -47,8 +47,3 @@ To get the basics up and running quickly, follow this suggested procedure on you
 - [WPILib C++ source code](https://github.com/wpilibsuite/allwpilib/tree/main/wpilibc/src/main/native/cpp)
 - [frc-docs repo for docs.wpilib.org](https://github.com/wpilibsuite/frc-docs)
     - repo for Official FRC Documentation
-
-### Team 2551 Robot code (some links may be private)
-
-- [PenguinEmpire/FRC2023](https://github.com/PenguinEmpire/FRC2023)
-- [PenguinEmpire/FRC2023-Vision](https://github.com/PenguinEmpire/FRC2023-Vision)
