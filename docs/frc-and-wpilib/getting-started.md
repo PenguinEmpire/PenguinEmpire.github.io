@@ -42,8 +42,15 @@ To get the basics up and running quickly, follow this suggested procedure on you
 
 ### WPILib on GitHub
 
-- [WPILib Suite](https://github.com/wpilibsuite)
-    - The official repositories of the WPILib Suite, a robotics software library used for FRC
-- [WPILib C++ source code](https://github.com/wpilibsuite/allwpilib/tree/main/wpilibc/src/main/native/cpp)
+- [WPILib Suite](https://github.com/wpilibsuite)  
+    - The official repositories of the WPILib Suite, a robotics software library used for FRC  
+- [/wpilibsuite/allwpilib/](https://github.com/wpilibsuite/allwpilib)  
+    - Official Repository of WPILibJ and WPILibC
+- [WPILib C++ source code (WPILibC)](https://github.com/wpilibsuite/allwpilib/tree/main/wpilibc/src/main/native/cpp)
+    - /wpilibsuite/allwpilib/tree/main/wpilibc/src/main/native/cpp
 - [frc-docs repo for docs.wpilib.org](https://github.com/wpilibsuite/frc-docs)
     - repo for Official FRC Documentation
+- [/wpilibsuite/wpilibsuite.github.io](https://github.com/wpilibsuite/wpilibsuite.github.io)
+    - repo for WPILib GitHub Pages
+- [WPILibC++ Documentation on GitHub Pages](https://github.wpilib.org/allwpilib/docs/release/cpp/)
+    - Includes lists of Modules, Namespaces, Classes & Files
