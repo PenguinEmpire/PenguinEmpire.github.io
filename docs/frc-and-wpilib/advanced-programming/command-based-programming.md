@@ -1,6 +1,6 @@
 ---
 title: Command-Based Programming
-sidebar_position: 12
+sidebar_position: 10
 ---
 Design Pattern
 

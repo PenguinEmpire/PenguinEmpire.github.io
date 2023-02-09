@@ -13,6 +13,17 @@ Open-source SDK platform for robotics apps
 
 ### ROS Training
 - [ROS Development Studio - The Construct](https://www.theconstructsim.com/the-ros-development-studio-by-the-construct/)
+
+### ROS Robot Simulation
+- [ROS-Based Robot Simulation - The Construct](https://www.theconstructsim.com/rosbot-robot-simulation/)
+    - **ROSbot** is an autonomous, open-source robot platform based on ROS developed by [Husarion](https://husarion.com/).
+
+- [Husarion ROSbot simulation source code on Bitbucket](https://bitbucket.org/theconstructcore/rosbot_husarion/src/master/)
+
+- [Husarion ROSbot Manual](https://husarion.com/manuals/rosbot/)
+
+- [Using ROSbot with ROS2 - post in Husarion Community](https://community.husarion.com/t/using-rosbot-with-ros2/975)
+
 ### ROS Cameras
 - [ros-drivers/gscam: ROS Camera driver for GStreamer-based video streams - GitHub](https://github.com/ros-drivers/gscam)
 [IntelROSProject - ROS Wiki](http://wiki.ros.org/IntelROSProject)
