@@ -4,7 +4,7 @@ sidebar_position: 40
 ---
 Hosting service for software development and version control using Git.
 
-In order to contribute your code to [our team's online GitHub repositories](https://github.com/PenguinEmpire/) of code, you'll want to learn how to use [Git](https://docs.github.com/en/get-started/quickstart/set-up-git). There are several different ways to use it. 
+In order to contribute your code to [our team's online GitHub repositories](https://github.com/PenguinEmpire/) of code, you'll want to learn how to use [Git](https://git-scm.com/about). There are several different ways to use it. 
 
 If you prefer working with a graphical user interface ([GUI](https://en.wikipedia.org/wiki/Graphical_user_interface)) rather than a command line interface ([CLI](https://en.wikipedia.org/wiki/Command-line_interface)), you can download [Github Desktop](https://docs.github.com/en/get-started/using-github/github-desktop) and use it to do most everything you'll need to do with GitHub.
 
