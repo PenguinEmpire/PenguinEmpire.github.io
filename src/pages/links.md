@@ -246,6 +246,12 @@ while (True):
 ## Archiconda for ARM64 devices
 - [Rumeysakeskin/Archiconda3-for-ARM64-Jetson-TX1-TX2: Create light-weight conda environment for ARM64 devices](https://github.com/Rumeysakeskin/Archiconda3-for-ARM64-Jetson-TX1-TX2)
 - [yqlbu/archiconda3: Light-weight Anaconda environment for ARM64 devices](https://github.com/yqlbu/archiconda3)
+
+# Other team's programming docs
+- [Team 2928 FRC Training - Java](https://2928-frc-programmer-training.readthedocs.io/en/latest/)
+    - Setup Dev environment, Setup Testing Environment, Romi Robot, RoboRIO, Programming, Robot Systems, Dynamics, Optimal Estimation, Control, Vision, ML, ML-based Control.
+- [Team 4590 GreenBlitz YouTube Tutorials - C++ from ~2013](https://www.youtube.com/@GreenBlitzTutorials)
+- [Team 6814 Eclipse - Java YouTube tutorials](https://www.youtube.com/@0ToAuto)
 # Older links to test
 ## Penguin Empire Github
 - [n00shE](https://github.com/n00shE)
