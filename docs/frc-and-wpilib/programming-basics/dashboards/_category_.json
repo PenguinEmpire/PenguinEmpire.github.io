@@ -1,0 +1,8 @@
+{
+  "label": "Dashboards",
+  "position": 40,
+  "link": {
+    "type": "generated-index",
+    "description": "Dashboards for driver station"
+  }
+}
