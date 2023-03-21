@@ -20,5 +20,6 @@ for vision with AprilTags
 
 ### PhotonVision on GitHub
 - [PhotonVision/photonvision on GitHub](https://github.com/PhotonVision/photonvision)
+- [PenguinEmpire/photonvision fork on GitHub](https://github.com/PenguinEmpire/photonvision)
 ### Discussion
 - [ChiefDelphi - PhotonVision announces AprilTag support in Sept 2022](https://www.chiefdelphi.com/t/photonvision-beta-2023-apriltags/415626)
