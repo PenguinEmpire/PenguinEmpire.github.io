@@ -1,0 +1,8 @@
+{
+  "label": "Driver Station",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "Setting up the Driver Station software to control the robot (from WPILib)"
+  }
+}
