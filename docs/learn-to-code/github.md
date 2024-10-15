@@ -15,7 +15,7 @@ To contribute your code, read through [GitHub's docs on Managing Branches](https
 #### Recent public repos
 | Repo | Language | Description |
 |---|:---:|---|
-| [PenguinEmpire.github.io](https://github.com/PenguinEmpire/PenguinEmpire.github.io) |  JavaScript | Github Pages site for Penguin Empire robotics |
+| [PenguinEmpire.github.io](https://github.com/PenguinEmpire/PenguinEmpire.github.io) |  JavaScript | Github Pages site for Penguin Empire robotics (This site!)|
 
 #### Recent private repos
 | Repo | Language | Description |
