@@ -1,6 +1,7 @@
 name: Deploy to GitHub Pages
 
 on:
+  workflow_dispatch:
   push:
     branches:
       - main
@@ -29,11 +30,11 @@ jobs:
         uses: peaceiris/actions-gh-pages@v3
         with:
           # original file used GITHUB_TOKEN
-          # github_token: ${{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Changed above line to use SSH Private Key instead 
           # per https://github.com/peaceiris/actions-gh-pages#%EF%B8%8F-set-ssh-private-key-deploy_key
-          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          # deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
 
           # Build output to publish to the `gh-pages` branch:
           publish_dir: ./build
