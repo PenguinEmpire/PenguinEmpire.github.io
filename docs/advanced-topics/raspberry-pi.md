@@ -2,8 +2,7 @@
 title: Raspberry Pi
 sidebar_position: 11
 ---
-for vision
-
+Raspberry Pi is a tiny credit-card sized computer that runs Linux.  We use them for vision processing.  Operating Systems we use are `WPILibPi` or Raspberry Pi OS (Lite).  We choose lite because we won't have a monitor attached to the pi, so a desktop environment is unnessessary.
 ### Team 4915 Spartronics Vision
 - [Spartronics4915/Vision on Github](https://github.com/Spartronics4915/Vision)
 - [Building a Raspberry Pi for FRC - using WPILibPi](https://github.com/Spartronics4915/Vision/blob/master/BuildRaspi.md)
