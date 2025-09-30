@@ -40,13 +40,7 @@ const config = {
           editUrl:
             'https://github.com/PenguinEmpire/PenguinEmpire.github.io/tree/main/',
         },
-        blog:  {
-          showReadingTime: true,
-          // Please change this to your repo.
-          // Remove this to remove the "edit this page" links.
-          editUrl:
-            'https://github.com/PenguinEmpire/PenguinEmpire.github.io/tree/main/',
-        },
+        blog:  false,
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
@@ -69,11 +63,6 @@ const config = {
             docId: 'overview',
             position: 'left',
             label: 'Docs',
-          },
-          {
-            to: '/blog', 
-            label: 'Blog', 
-            position: 'left'
           },
           {
             href: 'https://www.penguinempirerobotics.org/',
@@ -123,17 +112,16 @@ const config = {
             title: 'More',
             items: [
               {
-                label: 'Blog',
-                to: '/blog',
-              }, 
-              {
                 label: 'GitHub',
                 href: 'https://github.com/PenguinEmpire',
               },
+              {
+                label: 'Website',
+                href: 'https://www.penguinempirerobotics.org/'
+              }
             ],
           },
         ],
-        // copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
